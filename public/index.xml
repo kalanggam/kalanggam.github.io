@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Gil Locaylocay Caley</title>
+        <link>http://www.kalanggam.com/</link>
+        <description>Recent content on Gil Locaylocay Caley</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 13 Dec 2022 18:43:03 -0600</lastBuildDate><atom:link href="http://www.kalanggam.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Links</title>
+        <link>http://www.kalanggam.com/links/</link>
+        <pubDate>Tue, 13 Dec 2022 19:49:03 -0600</pubDate>
+        
+        <guid>http://www.kalanggam.com/links/</guid>
+        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;links&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  - &lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;GitHub&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;description&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;website&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;https://github.com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;image&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  - &lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;TypeScript&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;description&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;website&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;image&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;ts-logo-128.jpg&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Projects</title>
+        <link>http://www.kalanggam.com/projects/</link>
+        <pubDate>Tue, 13 Dec 2022 15:54:45 -0600</pubDate>
+        
+        <guid>http://www.kalanggam.com/projects/</guid>
+        <description>&lt;p&gt;Test&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>First Post</title>
+        <link>http://www.kalanggam.com/post/first-post/</link>
+        <pubDate>Tue, 13 Dec 2022 14:49:46 -0600</pubDate>
+        
+        <guid>http://www.kalanggam.com/post/first-post/</guid>
+        <description>&lt;p&gt;Testing! Test!&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>http://www.kalanggam.com/about/</link>
+        <pubDate>Tue, 13 Dec 2022 12:42:30 -0600</pubDate>
+        
+        <guid>http://www.kalanggam.com/about/</guid>
+        <description>&lt;h2 id=&#34;hello-my-name-is-gil-and-im-an-electrical-engineering-student-and-writer-based-in-lubbock-and-dfw&#34;&gt;Hello! My name is Gil, and I&amp;rsquo;m an electrical engineering student and writer, based in Lubbock and DFW.&lt;/h2&gt;
+&lt;h2 id=&#34;resume&#34;&gt;Resume&lt;/h2&gt;
+&lt;p&gt;View my resume &lt;a class=&#34;link&#34; href=&#34;&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
