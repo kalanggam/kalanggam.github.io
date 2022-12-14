@@ -1,0 +1,45 @@
+baseURL = "http://www.kalanggam.com/"
+languageCode = "en-us"
+title = "Gil Locaylocay Caley"
+theme = "stack"
+
+[params]
+    description = "Writer and student based in Lubbock & DFW"
+    favicon = "/favicon.ico"
+    mainSections = ["post"]
+    [params.sidebar]
+        emoji = "💀"
+        subtitle = "Writer and student based in Lubbock & DFW"
+        [params.sidebar.avatar]
+        enabled = true
+        local = true
+        src = "images/logo-1000.png"
+    [params.footer]
+        since = ""
+
+    [params.widgets]
+        homepage = [ ]
+        page = [{type = "toc"}]
+
+[menu]
+    [[menu.social]]
+    url = "https://github.com/kalanggam"
+    weight = 10
+    identifier = "github"
+    [menu.social.params]
+        icon = "brand-github"
+        newTab = true
+    [[menu.social]]
+    url = "https://tech.lgbt/@kalanggam"
+    weight = 20
+    identifier = "mastodon"
+    [menu.social.params]
+        icon = "brand-mastodon"
+        newTab = true
+    [[menu.social]]
+    url = "https://instagram.com/@gil_caley"
+    weight = 30
+    identifier = "instagram"
+    [menu.social.params]
+        icon = "brand-instagram"
+        newTab = true
