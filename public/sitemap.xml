@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.kalanggam.com/links/</loc>
+    <loc>http://kalanggam.github.io/links/</loc>
     <lastmod>2022-12-13T19:49:03-06:00</lastmod>
   </url><url>
-    <loc>http://www.kalanggam.com/</loc>
+    <loc>http://kalanggam.github.io/</loc>
     <lastmod>2022-12-13T18:43:03-06:00</lastmod>
   </url><url>
-    <loc>http://www.kalanggam.com/projects/</loc>
+    <loc>http://kalanggam.github.io/projects/</loc>
     <lastmod>2022-12-13T15:54:45-06:00</lastmod>
   </url><url>
-    <loc>http://www.kalanggam.com/post/first-post/</loc>
+    <loc>http://kalanggam.github.io/post/first-post/</loc>
     <lastmod>2022-12-13T14:49:46-06:00</lastmod>
   </url><url>
-    <loc>http://www.kalanggam.com/post/</loc>
+    <loc>http://kalanggam.github.io/post/</loc>
     <lastmod>2022-12-13T14:49:46-06:00</lastmod>
   </url><url>
-    <loc>http://www.kalanggam.com/about/</loc>
+    <loc>http://kalanggam.github.io/about/</loc>
     <lastmod>2022-12-13T12:42:30-06:00</lastmod>
   </url><url>
-    <loc>http://www.kalanggam.com/categories/</loc>
+    <loc>http://kalanggam.github.io/categories/</loc>
   </url><url>
-    <loc>http://www.kalanggam.com/tags/</loc>
+    <loc>http://kalanggam.github.io/tags/</loc>
   </url>
 </urlset>

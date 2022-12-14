@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Gil Locaylocay Caley</title>
-        <link>http://www.kalanggam.com/</link>
+        <link>http://kalanggam.github.io/</link>
         <description>Recent content on Gil Locaylocay Caley</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 13 Dec 2022 18:43:03 -0600</lastBuildDate><atom:link href="http://www.kalanggam.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 13 Dec 2022 18:43:03 -0600</lastBuildDate><atom:link href="http://kalanggam.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Links</title>
-        <link>http://www.kalanggam.com/links/</link>
+        <link>http://kalanggam.github.io/links/</link>
         <pubDate>Tue, 13 Dec 2022 19:49:03 -0600</pubDate>
         
-        <guid>http://www.kalanggam.com/links/</guid>
+        <guid>http://kalanggam.github.io/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;links&lt;/span&gt;:
@@ -28,28 +28,28 @@
         </item>
         <item>
         <title>Projects</title>
-        <link>http://www.kalanggam.com/projects/</link>
+        <link>http://kalanggam.github.io/projects/</link>
         <pubDate>Tue, 13 Dec 2022 15:54:45 -0600</pubDate>
         
-        <guid>http://www.kalanggam.com/projects/</guid>
+        <guid>http://kalanggam.github.io/projects/</guid>
         <description>&lt;p&gt;Test&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>First Post</title>
-        <link>http://www.kalanggam.com/post/first-post/</link>
+        <link>http://kalanggam.github.io/post/first-post/</link>
         <pubDate>Tue, 13 Dec 2022 14:49:46 -0600</pubDate>
         
-        <guid>http://www.kalanggam.com/post/first-post/</guid>
+        <guid>http://kalanggam.github.io/post/first-post/</guid>
         <description>&lt;p&gt;Testing! Test!&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>About</title>
-        <link>http://www.kalanggam.com/about/</link>
+        <link>http://kalanggam.github.io/about/</link>
         <pubDate>Tue, 13 Dec 2022 12:42:30 -0600</pubDate>
         
-        <guid>http://www.kalanggam.com/about/</guid>
+        <guid>http://kalanggam.github.io/about/</guid>
         <description>&lt;h2 id=&#34;hello-my-name-is-gil-and-im-an-electrical-engineering-student-and-writer-based-in-lubbock-and-dfw&#34;&gt;Hello! My name is Gil, and I&amp;rsquo;m an electrical engineering student and writer, based in Lubbock and DFW.&lt;/h2&gt;
 &lt;h2 id=&#34;resume&#34;&gt;Resume&lt;/h2&gt;
 &lt;p&gt;View my resume &lt;a class=&#34;link&#34; href=&#34;&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
