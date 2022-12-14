@@ -37,7 +37,7 @@ theme = "stack"
         icon = "brand-mastodon"
         newTab = true
     [[menu.social]]
-    url = "https://instagram.com/@gil_caley"
+    url = "https://instagram.com/gil_caley"
     weight = 30
     identifier = "instagram"
     [menu.social.params]
