@@ -8,7 +8,7 @@ theme = "stack"
     favicon = "/favicon.ico"
     mainSections = ["post"]
     [params.sidebar]
-        emoji = "💀"
+        emoji = "🦄"
         subtitle = "Writer and student based in Lubbock & DFW"
         [params.sidebar.avatar]
         enabled = true
