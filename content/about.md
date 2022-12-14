@@ -12,8 +12,6 @@ menu:
 
 Hello! My name is Gil, and I'm an electrical engineering student and writer, based in Lubbock and DFW.
 
----
-
 ## Resume
 
 View my resume [here]().
