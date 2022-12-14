@@ -1,4 +1,4 @@
-baseURL = "http://kalanggam.github.io"
+baseURL = "https://www.kalanggam.com"
 languageCode = "en-us"
 title = "Gil Locaylocay Caley"
 theme = "stack"
@@ -28,6 +28,13 @@ theme = "stack"
     identifier = "github"
     [menu.social.params]
         icon = "brand-github"
+        newTab = true
+    [[menu.social]]
+    url = "https://linkedin.com/in/gilcaley"
+    weight = 10
+    identifier = "linkedin"
+    [menu.social.params]
+        icon = "brand-linkedin"
         newTab = true
     [[menu.social]]
     url = "https://tech.lgbt/@kalanggam"
