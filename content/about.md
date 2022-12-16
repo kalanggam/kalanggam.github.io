@@ -36,4 +36,4 @@ Hello! My name is Gil, and I'm an electrical engineering student and writer, bas
 
 ## Contact me
 
-You reach me at {{< highlight plaintext "hl_inline=true" >}}gilcaley [at] gmail [dot] com{{< / highlight >}} or folow me via the social media links below.
+You reach me at {{< highlight plaintext "hl_inline=true" >}}gilcaley [at] gmail [dot] com{{< / highlight >}} or follow me via the social media links below.
