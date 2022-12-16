@@ -21,6 +21,9 @@ theme = "stack"
         homepage = [ ]
         page = [{type = "toc"}]
 
+    [params.imageProcessing.cover]
+        enabled = false
+
 [menu]
     [[menu.social]]
     url = "https://github.com/kalanggam"
