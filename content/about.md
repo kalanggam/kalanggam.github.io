@@ -34,6 +34,6 @@ links:
 
 Hello! My name is Gil, and I'm an electrical engineering student and writer, based in Lubbock and DFW.
 
-## Resume
+## Contact me
 
-View my resume [here]().
+You can reach me through the social links below or send me an email at {{< highlight plaintext "hl_inline=true" >}}gilcaley [at] gmail [dot] com{{< / highlight >}}
