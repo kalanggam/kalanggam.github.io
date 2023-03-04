@@ -17,6 +17,10 @@ links:
     description: Add me on LinkedIn
     website: https://www.linkedin.com/in/gilcaley/
     image: https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg
+  - title: Substack
+    description: Subscribe and see posts in advance through Substack
+    website: https://gilcaley.substack.com/
+    image: https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba81cfff-7bc5-4aef-866e-864d0942c42d_1000x1000.png
   - title: Buy Me a Coffee
     description: Support my work by buying me a coffee
     website: https://www.buymeacoffee.com/gilcaley
