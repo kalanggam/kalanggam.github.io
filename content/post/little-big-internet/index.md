@@ -3,7 +3,6 @@ title: "Little Big Internet"
 date: 2022-12-14T18:39:31-06:00
 draft: false
 description: "Scaling down our personal internet"
-image: "little-big-internet.png"
 ---
 > *It's ultimately up to us, the people who use the internet, to determine its future. Many of us are now seeking change, and some are starting to experiment with what the internet could look like. By downsizing and focusing on creating a more personal and human experience, we can create smaller, more intimate groups and networks which we own and control and where we can prioritize our own values and needs - a Little Big Internet.*
 
