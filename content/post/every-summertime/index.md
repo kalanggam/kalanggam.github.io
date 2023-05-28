@@ -3,6 +3,7 @@ title: "Every Summertime"
 date: 2023-05-12T23:05:25-05:00
 draft: false
 description: "The sweat on your brow, the love of mothers"
+categories: "poems"
 ---
 every summertime  
 i always think of your  

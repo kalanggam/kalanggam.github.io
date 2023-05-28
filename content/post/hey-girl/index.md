@@ -3,6 +3,7 @@ title: "Hey Girl"
 date: 2023-05-18T23:05:30-05:00
 draft: false
 description: "And other reminders from my soul sisters"
+categories: "poems"
 ---
 hey girl,  
 you remind me  

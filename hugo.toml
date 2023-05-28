@@ -18,8 +18,8 @@ theme = "stack"
         since = ""
 
     [params.widgets]
-        homepage = [ ]
-        page = [{type = "toc"}]
+        homepage = [{type = "categories", params = {limit = 0}}]
+        page = [{type = "toc"},{type = "categories", params = {limit = 0}}]
 
     [params.imageProcessing.cover]
         enabled = false

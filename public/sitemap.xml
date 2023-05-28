@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.kalanggam.com/post/little-big-internet/</loc>
-    <lastmod>2022-12-14T18:39:31-06:00</lastmod>
+    <loc>https://www.kalanggam.com/categories/</loc>
+    <lastmod>2023-05-18T23:05:30-05:00</lastmod>
+  </url><url>
+    <loc>https://www.kalanggam.com/post/hey-girl/</loc>
+    <lastmod>2023-05-18T23:05:30-05:00</lastmod>
+  </url><url>
+    <loc>https://www.kalanggam.com/categories/poems/</loc>
+    <lastmod>2023-05-18T23:05:30-05:00</lastmod>
   </url><url>
     <loc>https://www.kalanggam.com/post/</loc>
+    <lastmod>2023-05-18T23:05:30-05:00</lastmod>
+  </url><url>
+    <loc>https://www.kalanggam.com/post/every-summertime/</loc>
+    <lastmod>2023-05-12T23:05:25-05:00</lastmod>
+  </url><url>
+    <loc>https://www.kalanggam.com/categories/ideas/</loc>
+    <lastmod>2023-05-08T23:05:14-05:00</lastmod>
+  </url><url>
+    <loc>https://www.kalanggam.com/post/the-garden-of-kapwa/</loc>
+    <lastmod>2023-05-08T23:05:14-05:00</lastmod>
+  </url><url>
+    <loc>https://www.kalanggam.com/post/self-effacing/</loc>
+    <lastmod>2023-04-29T22:55:15-05:00</lastmod>
+  </url><url>
+    <loc>https://www.kalanggam.com/post/kapwa-leadership/</loc>
+    <lastmod>2023-03-07T13:08:35-06:00</lastmod>
+  </url><url>
+    <loc>https://www.kalanggam.com/post/little-big-internet/</loc>
     <lastmod>2022-12-14T18:39:31-06:00</lastmod>
   </url><url>
     <loc>https://www.kalanggam.com/</loc>
@@ -16,8 +40,6 @@
   </url><url>
     <loc>https://www.kalanggam.com/about/</loc>
     <lastmod>2022-12-13T12:42:30-06:00</lastmod>
-  </url><url>
-    <loc>https://www.kalanggam.com/categories/</loc>
   </url><url>
     <loc>https://www.kalanggam.com/tags/</loc>
   </url>
