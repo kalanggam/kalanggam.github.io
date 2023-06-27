@@ -1,9 +1,8 @@
 ---
-title: "Hey Girl"
+title: Hey Girl
 date: 2023-05-18T23:05:30-05:00
 draft: false
-description: "Nanette & other reminders from my soul sisters"
-categories: "poems"
+description: Nanette & other reminders from my soul sisters
 ---
 Hey girl,  
 you remind me  

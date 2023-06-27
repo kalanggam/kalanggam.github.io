@@ -1,9 +1,8 @@
 ---
-title: "The Garden of Kapwa"
+title: The Garden of Kapwa
 date: 2023-05-08T23:05:14-05:00
 draft: false
-description: "A meditation on Kapwa and radical love"
-categories: "ideas"
+description: A meditation on Kapwa and radical love
 ---
 Even before I became more involved in Filipino community space, I knew of *Kapwa* through the Filipino American leaders I encountered, online or in person, who employed it in their work. Although at times the Filipino American discourse around *Kapwa* could be a bit facile or even misinformed, *Kapwa*'s novelty, being a uniquely Filipino approach to understanding my own experiences, still allured me. For that reason, I still sought to incorporate *Kapwa* into my personal philosophy, yet I worried my own awareness would fall short if I spoke too broadly. It wasn't until I had read bell hooks' *All About Love* that I acquired a new framework for deepening my interpretation of *Kapwa*. It was last August, as I was leaving the Philippines last August and doing serious reflections about identity and leadership, when I began considering radical love, *Kapwa*, and relational leadership not as disjoint concepts, but as converging paths to liberation. I realized that truly cultivating *Kapwa*[^1] – to recognize a shared identity, of a self in unity with others, and embrace the emergent power thereof – can enable within us[^2] a transcendence into radical love.
 

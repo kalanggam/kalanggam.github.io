@@ -1,9 +1,8 @@
 ---
-title: "Self-Effacing"
+title: Self-Effacing
 date: 2023-04-29T22:55:15-05:00
 draft: false
-description: "Roots, routes, origins, and outs"
-categories: "poems"
+description: Roots, routes, origins, and outs
 ---
 I was born beneath the rocks of a single-minded destiny: cutting cords.  
 Sharpened by the first hominins to loosen them from their cages,  
