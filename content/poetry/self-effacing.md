@@ -2,7 +2,7 @@
 title: "Self-Effacing"
 date: 2023-04-29T22:55:15-05:00
 draft: false
-description: "\"I was born beneath the rocks of a single-minded destiny: cutting cords.\""
+description: "Roots, routes, origins, and outs"
 categories: "poems"
 ---
 I was born beneath the rocks of a single-minded destiny: cutting cords.  

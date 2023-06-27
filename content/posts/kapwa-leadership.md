@@ -3,7 +3,6 @@ title: "Defining Kapwa Leaders"
 date: 2023-03-07T13:08:35-06:00
 draft: false
 description: "A concept for Filipino student leadership"
-categories: "ideas"
 ---
 Kapwa leadership pulls together a variety of models and ideas from leadership and organizational theory. I began building this concept to provide a framework for elevating student leaders, grounded in Filipino culture and my personal experiences as a Filipino American student. This framework is offered to all, not only Filipino students, who might find it applicable to their leadership or educational practice. Under this model, a kapwa leader is one who embraces _kapwa_, the core concept of Filipino psychology as introduced by Vergilio Enriquez, as a guiding value through which leadership is expressed and transformed.
 

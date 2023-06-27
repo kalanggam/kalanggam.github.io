@@ -6,5 +6,4 @@ publishing, risotto *does* in fact add it to the header partial
 */
 :root {
   --logo: var(--base09);
-  --muted: #cc9d64;
 }
