@@ -2,10 +2,6 @@ Hello! I'm Gil. I'm 24, my pronouns are [he/they](https://my.pronouns.page/are/h
 
 > **_This website is under construction._**
 
----
-
-# Contents
-
 - About me
 - Writings
   - Non-fiction

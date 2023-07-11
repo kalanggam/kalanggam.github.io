@@ -1,96 +1,37 @@
 baseURL = 'https://www.kalanggam.com/'
-title = 'gil@kalanggam'
-
-theme = 'risotto'
-paginate = 3
 languageCode = 'en-us'
-DefaultContentLanguage = 'en'
-enableInlineShortcodes = true
+title = 'kalanggam'
+theme = 'bantay'
 
-# Automatically add content sections to main menu
+# `copyright` will render in footer as safe HTML
+copyright = '&copy;2023 Gil Locaylocay Caley'
 sectionPagesMenu = 'main'
 
+[permalinks]
+  [permalinks.page]
+    essays = '/essay/:slug/'
+    poetry = '/poem/:slug/'
+
 [params]
-noindex = false
+  mainSections = ['poetry', 'essays']
 
-[params.theme]
-palette = 'hardcore'
+  # Sidebar
+  # `about` will render in sidebar as safe HTML
+  [params.sidebar]
+    about = 'Gil Locaylocay Caley is a 24-year-old developer based in Dallas-Ft. Worth. [he/they](https://my.pronouns.page/are/he&they)'
 
-# Sidebar: about/bio
-[params.about]
-title = 'kalanggam'
-description = 'gil :: 24 :: dfw'
-logo = 'images/rice.svg'
+    # Sidebar links
+    [[params.sidebar.links]]
+      name = "Mastodon"
+      url = "https://tech.lgbt/@kalanggam"
+      weight = 1
 
-# Sidebar: social links
-# Available icon sets:
-# * FontAwesome 6 <https://fontawesome.com/> ('fa-brands', 'fa-normal', or 'fa-solid' for brands)
-# * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
-
-[[params.socialLinks]]
-icon = "fa-brands fa-github"
-title = "GitHub"
-url = "https://github.com/kalanggam"
-
-[[params.socialLinks]]
-icon = "fa-solid fa-envelope"
-title = "Email"
-url = "mailto:gilcaley@gmail.com"
-
-[[params.socialLinks]]
-icon = "fa-brands fa-mastodon"
-title = "Mastodon"
-url = "https://tech.lgbt/@kalanggam"
-
-[menu]
-
-  # [[menu.main]]
-  #   identifier = "about"
-  #   name = "About"
-  #   url = "/about/"
-  #   weight = 10
-
-[taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
-
-# For hugo >= 0.60.0, enable inline HTML
-[markup.goldmark.renderer]
-unsafe = true
+    [[params.sidebar.links]]
+      name = "GitHub"
+      url = "https://github.com/kalanggam"
+      weight = 1
 
 [markup]
-
-  # Table of contents
-  # Add toc = true to content front matter to enable
-  [markup.tableOfContents]
-    startLevel = 2
-    endLevel   = 3
-    ordered    = true
-
-[privacy]
-
-  [privacy.vimeo]
-    disabled = false
-    simple = true
-
-  [privacy.twitter]
-    disabled = false
-    enableDNT = true
-    simple = true
-
-  [privacy.instagram]
-    disabled = false
-    simple = true
-
-  [privacy.youtube]
-    disabled = false
-    privacyEnhanced = true
-
-[services]
-
-  [services.instagram]
-    disableInlineCSS = true
-
-  [services.twitter]
-    disableInlineCSS = true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,16 @@
+{{ define "main" }}
+<main id="content-area" class="lg:min-h-[250px] box-border">
+  <article id="markdown" class="markdown">
+    <header class="mb-8">
+      {{- if .Date }}<time class="uppercase">{{ .Date.Format "2006-01-02" }}</time>{{end -}}
+      <h1 class="my-0">{{- .Title -}}</h1>
+      {{- if .Params.Subtitle }}
+      <h2 class="my-0 text-stone-500 font-normal italic">
+        {{- .Params.Subtitle -}}
+      </h2>
+      {{ end -}}
+    </header>
+    {{- .Content | safeHTML -}}
+  </article>
+</main>
+{{ end }}

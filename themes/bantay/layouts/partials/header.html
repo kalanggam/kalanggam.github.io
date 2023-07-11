@@ -1,0 +1,21 @@
+<header id="header" class="p-2 lg:col-span-2 lg:my-4 lg:p-0">
+  <h1 class="brand"><a href="/">{{- .Site.Title -}}</a></h1>
+  <nav id="navbar" class="my-4">
+    <menu class="inline-flex flex-wrap gap-x-4 gap-y-4">
+      {{- $current := .Title -}}
+      {{- range .Site.Menus.main }}
+      <div
+        class="block py-1 border-b-[3px] {{ if eq $current .Name }}border-black{{ else }}border-transparent{{ end }}"
+        >
+        <a href="{{ .URL }}" {{ if eq $current .Name }} aria-current="page"{{ end -}}>
+        {{- if .Pre }}
+          {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}
+          {{ $icon -}}
+        {{ end -}}
+        {{ $text := print .Name | safeHTML }}
+        {{- $text -}}
+        </a></div>
+      {{- end }}
+    </menu>
+  </nav>
+</header>

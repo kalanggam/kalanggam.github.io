@@ -1,0 +1,11 @@
+<footer id="footer" class="lg:col-[2] flex flex-row justify-center items-center space-x-4 my-4 h-min">
+  <p>
+    <a href="https://gohugo.io/">Hugo</a>
+    &#10005;
+    <a href="https://github.com/kalanggam/bantay-test">Bantay</a>
+  </p>
+  {{- if .Site.Copyright }}
+  <div class="h-10 border-r border-r-black" aria-hidden="true"></div>
+  <p class="dark:font-bold">{{ .Site.Copyright | safeHTML }}</p>
+  {{ end -}}
+</footer>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  {{- partial "head.html" . -}}
+  <body class="">
+    <div
+      id="container"
+      class="grid grid-cols-1 lg:grid-cols-full max-w-screen-lg lg:my-4 lg:mx-20"
+    >
+      {{- partial "header.html" . -}}
+      <div id="page">{{- block "main" . }}{{ end -}}</div>
+      {{- partial "sidebar.html" . -}}
+      {{- partial "footer.html" . -}}
+    </div>
+    <!--<script>
+      window.onload = function () {
+        if (
+          localStorage.theme === "dark" ||
+          (!("theme" in localStorage) &&
+            window.matchMedia("(prefers-color-scheme: dark)").matches)
+        ) {
+          document.documentElement.classList.add("dark");
+        } else {
+          document.documentElement.classList.remove("dark");
+        }
+      };
+      // TODO Make toggle for dark mode + light mode
+    </script>-->
+  </body>
+</html>

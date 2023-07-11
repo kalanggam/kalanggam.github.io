@@ -1,9 +1,0 @@
-/*
-
-important note: hugo local server doesn't like to use this stylesheet, but when
-publishing, risotto *does* in fact add it to the header partial
-
-*/
-:root {
-  --logo: var(--base09);
-}

@@ -1,0 +1,34 @@
+{{ define "main" -}}
+<main class="">
+  {{- if .Content }}
+  <article class="markdown">
+    {{- if .Title }}
+    <header class="mb-8">
+      <h1 class="my-0">{{- .Title -}}</h1>
+      {{- if .Params.Subtitle }}
+      <h2 class="my-0 text-stone-500 font-normal italic">
+        {{- .Params.Subtitle -}}
+      </h2>
+      {{ end -}}
+    </header>
+    {{ end -}}
+    {{- .Content | safeHTML -}}
+    <hr>
+  </article>
+  {{ end -}} {{- with .Site.RegularPages.ByDate.Reverse }}
+  <article class="px-2 lg:p-0">
+    {{- range where . "Type" "in" site.Params.mainSections }}
+    <article class="relative my-6">
+      <h1 class="text-xl font-bold">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h1>
+      <p>{{ .Summary }}</p>
+      <time class="absolute top-2 lg:top-0 right-2 lg:right-0"
+        >{{ .Date.Format "2006-01-02" }}</time
+      >
+    </article>
+    {{ end -}}
+  </article>
+  {{ end -}}
+</main>
+{{- end }}
