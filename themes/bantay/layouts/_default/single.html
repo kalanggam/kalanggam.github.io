@@ -1,6 +1,6 @@
 {{ define "main" }}
 <main id="content-area" class="lg:min-h-[250px] box-border">
-  <article id="markdown" class="markdown">
+  <article id="markdown-content" class="markdown px-2 lg:p-0">
     <header class="mb-8">
       {{- if .Date }}<time class="uppercase">{{ .Date.Format "2006-01-02" }}</time>{{end -}}
       <h1 class="my-0">{{- .Title -}}</h1>

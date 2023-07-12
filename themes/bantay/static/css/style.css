@@ -1166,9 +1166,6 @@ video {
 .markdown{
   --tw-prose-links: #0284c7;
   --tw-prose-invert-links: #0ea5e9;
-  max-width: none;
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
 }
 
 @media (min-width: 1024px){
@@ -1385,10 +1382,6 @@ video {
   .markdown :where(.prose > :last-child):not(:where([class~="not-prose"] *)){
     margin-bottom: 0;
   }
-
-  .markdown{
-    padding: 0px;
-  }
 }
 
 .brand{
@@ -1547,10 +1540,6 @@ video {
   border-right-color: rgb(0 0 0 / var(--tw-border-opacity));
 }
 
-.p-0{
-  padding: 0px;
-}
-
 .p-2{
   padding: 0.5rem;
 }
@@ -1563,6 +1552,14 @@ video {
 .py-1{
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
+}
+
+.pr-10{
+  padding-right: 2.5rem;
+}
+
+.pr-8{
+  padding-right: 2rem;
 }
 
 .text-xl{
@@ -1849,6 +1846,18 @@ video {
   .lg\:my-4{
     margin-top: 1rem;
     margin-bottom: 1rem;
+  }
+
+  .lg\:mr-2{
+    margin-right: 0.5rem;
+  }
+
+  .lg\:mr-8{
+    margin-right: 2rem;
+  }
+
+  .lg\:mr-20{
+    margin-right: 5rem;
   }
 
   .lg\:min-h-\[250px\]{

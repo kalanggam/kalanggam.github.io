@@ -7,7 +7,7 @@
 
 @layer components {
   .markdown {
-    @apply prose lg:prose-lg prose-sky max-w-none px-2 lg:p-0;
+    @apply prose lg:prose-lg prose-sky;
   }
 
   .brand {

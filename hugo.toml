@@ -1,6 +1,6 @@
 baseURL = 'https://www.kalanggam.com/'
 languageCode = 'en-us'
-title = 'kalanggam'
+title = 'Kalanggam'
 theme = 'bantay'
 
 # `copyright` will render in footer as safe HTML
@@ -18,7 +18,10 @@ sectionPagesMenu = 'main'
   # Sidebar
   # `about` will render in sidebar as safe HTML
   [params.sidebar]
-    about = 'Gil Locaylocay Caley is a 24-year-old developer based in Dallas-Ft. Worth. [he/they](https://my.pronouns.page/are/he&they)'
+    about = """\
+      My name's Gil Locaylocay Caley and I do software and game \
+      dev. I also write poetry, essays, and stories.\
+      """
 
     # Sidebar links
     [[params.sidebar.links]]

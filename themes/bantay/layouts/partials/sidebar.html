@@ -1,11 +1,11 @@
-<div id="sidebar" class="p-2 lg:p-0 lg:row-[2]">
+<div id="sidebar" class="p-2 lg:p-0 lg:mr-8 lg:row-[2]">
   <aside id="sidebar-about" class="mb-4">
     <header
       class="mt-0 mb-2 font-bold"
     >
       About
     </header>
-    <p class="markdown p-0 lg:prose-base">{{- .Site.Params.Sidebar.About | markdownify -}}</p>
+    <p class="markdown lg:prose-base">{{- .Site.Params.Sidebar.About | markdownify -}}</p>
   </aside>
   {{- if .Site.Params.Sidebar.Links }}
   {{- with sort (sort (sort .Site.Params.Sidebar.Links "weight") "name") "url" }}
