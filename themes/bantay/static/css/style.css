@@ -1416,16 +1416,8 @@ video {
   right: 0.5rem;
 }
 
-.top-2{
-  top: 0.5rem;
-}
-
 .top-0{
   top: 0px;
-}
-
-.right-0{
-  right: 0px;
 }
 
 .my-0{
@@ -1835,10 +1827,6 @@ video {
 @media (min-width: 1024px){
   .lg\:right-0{
     right: 0px;
-  }
-
-  .lg\:top-0{
-    top: 0px;
   }
 
   .lg\:col-\[2\]{
