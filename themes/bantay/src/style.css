@@ -10,6 +10,10 @@
     @apply prose lg:prose-lg prose-sky;
   }
 
+  .markdown > p:first-child {
+    @apply mt-0;
+  }
+
   .brand {
     @apply text-5xl lg:text-7xl font-bold;
   }

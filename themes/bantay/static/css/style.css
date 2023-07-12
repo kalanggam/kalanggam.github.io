@@ -1384,6 +1384,10 @@ video {
   }
 }
 
+.markdown > p:first-child{
+  margin-top: 0px;
+}
+
 .brand{
   font-size: 3rem;
   line-height: 1;
@@ -1552,14 +1556,6 @@ video {
 .py-1{
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
-}
-
-.pr-10{
-  padding-right: 2.5rem;
-}
-
-.pr-8{
-  padding-right: 2rem;
 }
 
 .text-xl{
@@ -1848,16 +1844,8 @@ video {
     margin-bottom: 1rem;
   }
 
-  .lg\:mr-2{
-    margin-right: 0.5rem;
-  }
-
   .lg\:mr-8{
     margin-right: 2rem;
-  }
-
-  .lg\:mr-20{
-    margin-right: 5rem;
   }
 
   .lg\:min-h-\[250px\]{
